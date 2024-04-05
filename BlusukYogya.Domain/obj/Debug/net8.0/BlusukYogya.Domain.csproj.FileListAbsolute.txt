@@ -1,0 +1,15 @@
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\bin\Debug\net8.0\BlusukYogya.Domain.deps.json
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\bin\Debug\net8.0\BlusukYogya.Domain.dll
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\bin\Debug\net8.0\BlusukYogya.Domain.pdb
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\BlusukYogya.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\BlusukYogya.Domain.AssemblyInfoInputs.cache
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\BlusukYogya.Domain.AssemblyInfo.cs
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\BlusukYogya.Domain.csproj.CoreCompileInputs.cache
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\BlusukYogya.Domain.dll
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\refint\BlusukYogya.Domain.dll
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\BlusukYogya.Domain.pdb
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\ref\BlusukYogya.Domain.dll
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\bin\Debug\net8.0\BlusukYogya.Domain.runtimeconfig.json
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\BlusukYogya.Domain.csproj.AssemblyReference.cache
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\BlusukYogya.Domain.genruntimeconfig.cache
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Domain\obj\Debug\net8.0\BlusukYogya.Domain.sourcelink.json

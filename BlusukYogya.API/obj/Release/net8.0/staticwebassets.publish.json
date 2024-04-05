@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "oDGE+N/9meoDpmFOE6FZ0vn1pn/XFueRxzQcgGoC4J0=",
+  "Source": "BlusukYogya.API",
+  "BasePath": "_content/BlusukYogya.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlusukYogya.API\\wwwroot",
+      "Source": "BlusukYogya.API",
+      "ContentRoot": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\wwwroot\\",
+      "BasePath": "_content/BlusukYogya.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\wwwroot\\previews\\3b244366-5f20-4448-bb38-a6ee525fdd34.jpg",
+      "SourceId": "BlusukYogya.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\wwwroot\\",
+      "BasePath": "_content/BlusukYogya.API",
+      "RelativePath": "previews/3b244366-5f20-4448-bb38-a6ee525fdd34.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\previews\\3b244366-5f20-4448-bb38-a6ee525fdd34.jpg"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\wwwroot\\previews\\3b244366-5f20-4448-bb38-a6ee525fdd34.jpg",
+      "PackagePath": "staticwebassets\\previews\\3b244366-5f20-4448-bb38-a6ee525fdd34.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.BlusukYogya.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.BlusukYogya.API.props",
+      "PackagePath": "build\\BlusukYogya.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlusukYogya.API.props",
+      "PackagePath": "buildMultiTargeting\\BlusukYogya.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlusukYogya.API.props",
+      "PackagePath": "buildTransitive\\BlusukYogya.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

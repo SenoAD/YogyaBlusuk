@@ -1,0 +1,16 @@
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\BlusukYogya.Data.csproj.AssemblyReference.cache
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\BlusukYogya.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\BlusukYogya.Data.AssemblyInfoInputs.cache
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\BlusukYogya.Data.AssemblyInfo.cs
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\BlusukYogya.Data.csproj.CoreCompileInputs.cache
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\BlusukYogya.Data.sourcelink.json
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\bin\Release\net8.0\BlusukYogya.Data.deps.json
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\bin\Release\net8.0\BlusukYogya.Data.dll
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\bin\Release\net8.0\BlusukYogya.Data.pdb
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\bin\Release\net8.0\BlusukYogya.Domain.dll
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\bin\Release\net8.0\BlusukYogya.Domain.pdb
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\BlusukYo.4ED921AA.Up2Date
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\BlusukYogya.Data.dll
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\refint\BlusukYogya.Data.dll
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\BlusukYogya.Data.pdb
+D:\Users\bsi80209\Documents\Bootcamp\CSharp\BlusukYogya\BlusukYogya.Data\obj\Release\net8.0\ref\BlusukYogya.Data.dll

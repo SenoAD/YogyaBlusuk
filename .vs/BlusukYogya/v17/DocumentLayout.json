@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\vacationplanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\vacationplanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\vacationplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\vacationplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.api\\controllers\\vacationplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4163716D-57D1-4B79-9F16-C7FEEF4CBF2C}|BlusukYogya.API\\BlusukYogya.API.csproj|solutionrelative:blusukyogya.api\\controllers\\vacationplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\vacationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\vacationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\dto\\planitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\dto\\planitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\vacationplandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\vacationplandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\planitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\planitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.domain\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95FCF4F-747A-4FA2-894C-36354A704B6F}|BlusukYogya.Domain\\BlusukYogya.Domain.csproj|solutionrelative:blusukyogya.domain\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.bll\\interface\\ivacationplanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB411371-B4CD-481F-9706-2A11CB51F668}|BlusukYogya.BLL\\BlusukYogya.BLL.csproj|solutionrelative:blusukyogya.bll\\interface\\ivacationplanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|d:\\users\\bsi80209\\documents\\bootcamp\\csharp\\blusukyogya\\blusukyogya.data\\interface\\ivacationplandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED34B205-C71B-46BA-B2D2-C1CA72B422AF}|BlusukYogya.Data\\BlusukYogya.Data.csproj|solutionrelative:blusukyogya.data\\interface\\ivacationplandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Profiles\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\Profiles\\MapperProfile.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Profiles\\MapperProfile.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\Profiles\\MapperProfile.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAD4vyIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:58:35.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanItemDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\PlanItemDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\PlanItemDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\PlanItemDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\PlanItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:57:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlanItem.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\PlanItem.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\PlanItem.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\PlanItem.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\PlanItem.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:49:42.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VacationPlan.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\VacationPlan.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\VacationPlan.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\VacationPlan.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\VacationPlan.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:49:00.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Place.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Place.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Domain\\Place.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Domain\\Place.cs",
+              "RelativeToolTip": "BlusukYogya.Domain\\Place.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:48:53.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VacationPlansController.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\VacationPlansController.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.API\\Controllers\\VacationPlansController.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.API\\Controllers\\VacationPlansController.cs",
+              "RelativeToolTip": "BlusukYogya.API\\Controllers\\VacationPlansController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAMwEsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:44:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VacationPlanDTO.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\VacationPlanDTO.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\DTO\\VacationPlanDTO.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\DTO\\VacationPlanDTO.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\DTO\\VacationPlanDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:42:27.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVacationPlanBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IVacationPlanBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\Interface\\IVacationPlanBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\Interface\\IVacationPlanBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\Interface\\IVacationPlanBLL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:41:43.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VacationPlanBLL.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\VacationPlanBLL.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.BLL\\VacationPlanBLL.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.BLL\\VacationPlanBLL.cs",
+              "RelativeToolTip": "BlusukYogya.BLL\\VacationPlanBLL.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:41:40.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVacationPlanData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IVacationPlanData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\Interface\\IVacationPlanData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\Interface\\IVacationPlanData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\Interface\\IVacationPlanData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:41:38.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VacationPlanData.cs",
+              "DocumentMoniker": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\VacationPlanData.cs",
+              "RelativeDocumentMoniker": "BlusukYogya.Data\\VacationPlanData.cs",
+              "ToolTip": "D:\\Users\\bsi80209\\Documents\\Bootcamp\\CSharp\\BlusukYogya\\BlusukYogya.Data\\VacationPlanData.cs",
+              "RelativeToolTip": "BlusukYogya.Data\\VacationPlanData.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAMwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:41:37.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
